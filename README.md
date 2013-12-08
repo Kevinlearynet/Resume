@@ -1,8 +1,4 @@
-## Contact
-
-* [info@kevinleary.net](mailto:info@kevinleary.net)
-* [781.489.6630](tel:+17814896630)
-* [kevinleary.net](http://www.kevinleary.net)
+[info@kevinleary.net](mailto:info@kevinleary.net) / [781.489.6630](tel:+17814896630) / [kevinleary.net](http://www.kevinleary.net)
 
 ## Credibility
 *Examples of my work, open-source contributions, and published works.*
@@ -71,3 +67,5 @@
 * 781/800 proficiency score
 * Master level
 * Ranked 212 out of 9,033
+
+[info@kevinleary.net](mailto:info@kevinleary.net) / [781.489.6630](tel:+17814896630) / [kevinleary.net](http://www.kevinleary.net)
