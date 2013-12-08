@@ -47,9 +47,9 @@ class Resume extends Kevin {
      */
     public function history() {
 
-        switch ( $employer ) {
+        $details = new stdClass;
 
-            $details = new stdClass;
+        switch ( $employer ) {
 
             // 1.2008 - Today
             case "kevinleary.net":
