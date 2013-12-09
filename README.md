@@ -1,5 +1,6 @@
 [info@kevinleary.net](mailto:info@kevinleary.net) / [781.489.6630](tel:+17814896630) / [kevinleary.net](http://www.kevinleary.net)
 
+***
 ## Credibility
 
 * [Portfolio](http://www.kevinleary.net)
@@ -7,18 +8,18 @@
 
 ### Open-source
 
-* [Responsive Video Embeds](http://wordpress.org/plugins/responsive-video-embeds/) - WP plugin with over 22,000 downloads
+* [Responsive Video Embeds](http://wordpress.org/plugins/responsive-video-embeds/) WordPress plugin
 * [Browser Shots](http://wordpress.org/plugins/browser-shots/) - WP plugin with over 11,000 downloads
-* [Visual Editor Biography](http://wordpress.org/plugins/visual-biography-editor/) - WP plugin with over 5,000 downloads
+* [Visual Editor Biography](http://wordpress.org/plugins/visual-biography-editor/) WordPress plugin
 * [Github](https://github.com/Kevinlearynet)
 
 ### Publications
 
-* [How To Create Custom Taxonomies In WordPress](http://wp.smashingmagazine.com/2012/01/04/create-custom-taxonomies-wordpress/) - Jan 2012, *Smashing Magazine*
-* [WordPress Multisite: Practical Functions And Methods](http://wp.smashingmagazine.com/2011/11/17/wordpress-multisite-practical-functions-methods/) - Nov 2011, *Smashing Magazine*
-* [Creating a "Meet The Team" Page in WordPress](http://css-tricks.com/creating-meet-team-page-wordpress/) - Oct 2013, *CSS-Tricks*
-* Customizing the WordPress Admin with Meta Boxes - Jan 2014, *SixRevisions* (coming soon)
+* [How To Create Custom Taxonomies In WordPress](http://wp.smashingmagazine.com/2012/01/04/create-custom-taxonomies-wordpress/) @ *Smashing Magazine*
+* [WordPress Multisite: Practical Functions And Methods](http://wp.smashingmagazine.com/2011/11/17/wordpress-multisite-practical-functions-methods/) @ *Smashing Magazine*
+* [Creating a "Meet The Team" Page in WordPress](http://css-tricks.com/creating-meet-team-page-wordpress/) @ *CSS-Tricks*
 
+***
 ## Work History
 
 ### WordPress Consultant @ [kevinleary.net](http://www.kevinleary.net)
@@ -51,6 +52,7 @@
 
 * Transform table based layouts into standards compliant, modular templates using CSS, HTML and JavaScript
 
+***
 ## Education & Certifications
 
 ### Bachelor of Science @ [Champlain College]
@@ -66,4 +68,5 @@
 * Master level
 * Ranked 212 out of 9,033
 
+***
 [info@kevinleary.net](mailto:info@kevinleary.net) / [781.489.6630](tel:+17814896630) / [kevinleary.net](http://www.kevinleary.net)
