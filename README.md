@@ -9,7 +9,7 @@
 ### Open-source
 
 * [Responsive Video Embeds](http://wordpress.org/plugins/responsive-video-embeds/) WordPress plugin
-* [Browser Shots](http://wordpress.org/plugins/browser-shots/) - WP plugin with over 11,000 downloads
+* [Browser Shots](http://wordpress.org/plugins/browser-shots/) WordPress plugin
 * [Visual Editor Biography](http://wordpress.org/plugins/visual-biography-editor/) WordPress plugin
 * [Github](https://github.com/Kevinlearynet)
 
