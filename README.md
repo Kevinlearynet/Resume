@@ -1,4 +1,4 @@
-[info@kevinleary.net](mailto:info@kevinleary.net) / [781.489.6630](tel:+17814896630) / [kevinleary.net](http://www.kevinleary.net)
+[kevinleary.net](http://www.kevinleary.net)
 
 ***
 ## Credibility
