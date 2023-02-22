@@ -1,17 +1,11 @@
-[kevinleary.net](http://www.kevinleary.net)
+## Open-source Creations & Contributions
 
-***
-## Credibility
-
-* [Portfolio](http://www.kevinleary.net)
-* [Blog](http://www.kevinleary.net/blog)
-
-### Open-source
-
-* [Responsive Video Embeds](http://wordpress.org/plugins/responsive-video-embeds/) WordPress plugin
-* [Browser Shots](http://wordpress.org/plugins/browser-shots/) WordPress plugin
-* [Visual Editor Biography](http://wordpress.org/plugins/visual-biography-editor/) WordPress plugin
-* [Github](https://github.com/Kevinlearynet)
+* Created a [popular responsive video embed](http://wordpress.org/plugins/responsive-video-embeds/) pligin for WordPress with over 100,000 downloads
+* Created a unique WordPress plugin that automatically generates a screenshot of a website called [Browser Shots](http://wordpress.org/plugins/browser-shots/)
+* Created a popular WordPress plugin to provide a [visual editor for user biographies](http://wordpress.org/plugins/visual-biography-editor/) in WordPressre
+* Released open source code and projects through [Github](https://github.com/Kevinlearynet)
+* Contributed code to the [WP-CLI](https://wp-cli.org/) project
+* Created a publishing system for [Swagger.io], allowing for open-source, crowd based content management through GitHub
 
 ### Publications
 
