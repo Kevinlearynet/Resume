@@ -13,9 +13,7 @@
 * [WordPress Multisite: Practical Functions And Methods](http://wp.smashingmagazine.com/2011/11/17/wordpress-multisite-practical-functions-methods/) @ *Smashing Magazine*
 * [Creating a "Meet The Team" Page in WordPress](http://css-tricks.com/creating-meet-team-page-wordpress/) @ *CSS-Tricks*
 
-***
 ## Work History
-
 ### WordPress Consultant @ [kevinleary.net](http://www.kevinleary.net)
 *Jan 2008 - Today*
 
